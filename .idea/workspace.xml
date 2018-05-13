@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="932ec0bd-da53-4981-8fa7-34cafe7ec709" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Kotlin/RunKukesTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/MyStepdefs.java" beforeDir="false" />
-    </list>
+    <list default="true" id="932ec0bd-da53-4981-8fa7-34cafe7ec709" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +32,7 @@
         </entry>
       </file>
       <file leaf-file-name="teste.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/teste.feature">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/teste.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
@@ -45,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StepDefs.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StepDefs.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/Kotlin/StepDefs.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="80" />
+            <state relative-caret-position="150">
+              <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
               <folding>
                 <element signature="e#0#65#0" expanded="true" />
               </folding>
@@ -57,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RunKukesTest.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RunKukesTest.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/Kotlin/RunKukesTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#102#1" expanded="true" />
               </folding>
@@ -156,13 +151,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="KWIC_TP2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KWIC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -181,6 +169,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/cucumber/features" />
       <recent name="$PROJECT_DIR$/src/main/Kotlin" />
     </key>
   </component>
@@ -302,14 +291,11 @@
       <option name="presentableId" value="Default" />
       <updated>1526250421192</updated>
       <workItem from="1526250426204" duration="1019000" />
-      <workItem from="1526251478981" duration="1398000" />
+      <workItem from="1526251478981" duration="2127000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__teste - 2018.05.13 at 19h 48m 42s.xml">
-      <configuration name="Feature: teste" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="Feature__teste - 2018.05.13 at 19h 54m 34s.xml">
       <configuration name="Feature: teste" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -334,13 +320,18 @@
     <history-entry file="Feature__teste - 2018.05.13 at 20h 05m 05s.xml">
       <configuration name="Feature: teste" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.13 at 20h 08m 00s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.13 at 20h 09m 05s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2417000" />
+    <option name="totallyTimeSpent" value="3146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -414,17 +405,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Kotlin/StepDefs.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="80" />
-          <folding>
-            <element signature="e#0#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/teste.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/teste.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
@@ -433,10 +414,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Kotlin/RunKukesTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#102#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Kotlin/StepDefs.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
