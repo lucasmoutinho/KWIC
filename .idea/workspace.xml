@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="932ec0bd-da53-4981-8fa7-34cafe7ec709" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/Kotlin/FileOutputManager.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Kotlin/OutputManager.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Kotlin/APIStorageManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Kotlin/APIStorageManager.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Kotlin/outputFile_Steps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Kotlin/outputFile_Steps.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/cucumber/features/outputFile.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/cucumber/features/outputFile.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/APIStorageManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/APIStorageManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumber/features/outputFile.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cucumber/features/outputFile.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Kotlin/TerminalOutputManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Kotlin/main.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,20 +25,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileOutputManager.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FileOutputManager.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Kotlin/FileOutputManager.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="180">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="saida.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/saida.txt">
+      <file leaf-file-name="TerminalOutputManager.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/TerminalOutputManager.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" selection-start-column="43" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -132,13 +135,14 @@
         <option value="$PROJECT_DIR$/src/test/resources/cucumber/features/inputAPI.feature" />
         <option value="$PROJECT_DIR$/src/test/Kotlin/inputFile_Steps.kt" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/Kotlin/main.kt" />
         <option value="$PROJECT_DIR$/src/test/Kotlin/inputAPI_Steps.kt" />
         <option value="$PROJECT_DIR$/src/main/Kotlin/OutputManager.kt" />
         <option value="$PROJECT_DIR$/src/main/Kotlin/APIStorageManager.kt" />
         <option value="$PROJECT_DIR$/src/test/resources/cucumber/features/outputFile.feature" />
         <option value="$PROJECT_DIR$/src/test/Kotlin/outputFile_Steps.kt" />
         <option value="$PROJECT_DIR$/src/main/Kotlin/FileOutputManager.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/TerminalOutputManager.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/main.kt" />
       </list>
     </option>
   </component>
@@ -272,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RunKukesTest">
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -361,8 +365,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RunKukesTest" />
         <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="JUnit.RunKukesTest" />
         <item itemvalue="Cucumber java.Feature: teste" />
       </list>
     </recent_temporary>
@@ -385,14 +389,11 @@
       <workItem from="1526322458334" duration="4585000" />
       <workItem from="1526327240856" duration="760000" />
       <workItem from="1526332386447" duration="3840000" />
-      <workItem from="1526337948241" duration="811000" />
+      <workItem from="1526337948241" duration="1200000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunKukesTest - 2018.05.13 at 22h 16m 48s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunKukesTest - 2018.05.14 at 14h 53m 22s.xml">
       <configuration name="RunKukesTest" configurationId="JUnit" />
     </history-entry>
@@ -420,9 +421,12 @@
     <history-entry file="RunKukesTest - 2018.05.14 at 19h 58m 41s.xml">
       <configuration name="RunKukesTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.14 at 19h 59m 57s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26376000" />
+    <option name="totallyTimeSpent" value="26765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
@@ -465,7 +469,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/teste.feature" />
     <entry file="file://$PROJECT_DIR$/src/test/Kotlin/RunKukesTest.kt" />
     <entry file="file://$PROJECT_DIR$/src/test/Kotlin/StepDefs.kt" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -614,13 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Kotlin/shiftWordSteps.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -677,13 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/saida.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Kotlin/outputFile_Steps.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -708,6 +697,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/saida.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Kotlin/FileStorageManager.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -717,8 +713,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Kotlin/FileOutputManager.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/TerminalOutputManager.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
