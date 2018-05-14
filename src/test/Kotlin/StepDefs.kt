@@ -1,21 +1,34 @@
 import cucumber.api.PendingException
 import cucumber.api.java8.Pt
+import org.junit.Assert
+import java.io.File
+import kotlin.test.expect
 
 class StepDefs: Pt {
+
+    val storage_manager = FileStorageManager()
+    lateinit var lines: List<String>
     init {
+
         Dado("^que eu tenha um arquivo texto denominado \"([^\"]*)\"$") { arg1: String ->
-            // Write code here that turns the phrase above into concrete actions
-            throw PendingException()
+            storage_manager.write(arg1)
+//            File(arg1).printWriter().use { out ->
+//                out.write("Eu amo TP2!")
+//            }
+            //println(arg1)
+            //throw PendingException()
         }
 
         Quando("^eu abrir este arquivo e ler os dados$") {
-            // Write code here that turns the phrase above into concrete actions
-            throw PendingException()
+            lines = storage_manager.read("teste.txt")
+            println(lines)
+            //throw PendingException()
         }
 
         Entao("^a primera frase lida deve ser \"([^\"]*)\"$") { arg1: String ->
             // Write code here that turns the phrase above into concrete actions
-            throw PendingException()
+            Assert.assertEquals(arg1,lines[0])
+            //throw PendingException()
         }
     }
 }
