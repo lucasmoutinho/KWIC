@@ -36,7 +36,10 @@ class KWICManager_Steps:Pt {
         }
 
         Entao("^eu devo ter como saída uma lista alfabética de todas as linhas do arquivo original em KWIC$", {
-            Assert.assertEquals("Ola",frases[1])
+            Assert.assertEquals("Empresa Junior de Alto Crescimento",frases[0])
+            Assert.assertEquals("Junior de Alto Crescimento Empresa",frases[1])
+            Assert.assertEquals("Alto Crescimento Empresa Junior de",frases[2])
+            Assert.assertEquals("Crescimento Empresa Junior de Alto",frases[3])
 
         })
     }
