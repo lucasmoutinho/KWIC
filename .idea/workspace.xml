@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="932ec0bd-da53-4981-8fa7-34cafe7ec709" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/Kotlin/Shifter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Kotlin/Shifter.kt" afterDir="false" />
-    </list>
+    <list default="true" id="932ec0bd-da53-4981-8fa7-34cafe7ec709" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,15 +52,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11940">
-              <caret line="796" column="10" selection-start-line="796" selection-start-column="10" selection-end-line="796" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,8 +64,26 @@
       <file leaf-file-name="Shifter.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/Kotlin/Shifter.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            <state relative-caret-position="45">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shiftWord.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/shiftWord.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="75" lean-forward="true" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunKukesTest.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Kotlin/RunKukesTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -179,7 +186,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,8 +249,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,13 +264,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/Kotlin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main" />
       <recent name="$PROJECT_DIR$/src/test/resources/cucumber/features" />
       <recent name="$PROJECT_DIR$/src/main/Kotlin" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/Kotlin" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -390,17 +400,11 @@
       <workItem from="1526321011896" duration="1282000" />
       <workItem from="1526322458334" duration="4585000" />
       <workItem from="1526327240856" duration="760000" />
-      <workItem from="1526332386447" duration="213000" />
+      <workItem from="1526332386447" duration="1045000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunKukesTest - 2018.05.13 at 21h 33m 57s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunKukesTest - 2018.05.13 at 21h 37m 23s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunKukesTest - 2018.05.13 at 21h 38m 18s.xml">
       <configuration name="RunKukesTest" configurationId="JUnit" />
     </history-entry>
@@ -425,13 +429,18 @@
     <history-entry file="RunKukesTest - 2018.05.14 at 14h 53m 22s.xml">
       <configuration name="RunKukesTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.14 at 18h 13m 46s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.14 at 18h 16m 50s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21725000" />
+    <option name="totallyTimeSpent" value="22770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -443,11 +452,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49961567" visible="true" weight="0.3298193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49961567" visible="true" weight="0.3298193" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980783" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980783" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -470,7 +479,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/main.kt" />
     <entry file="file://$PROJECT_DIR$/pom.xml" />
@@ -586,8 +594,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11940">
-          <caret line="796" column="10" selection-start-line="796" selection-start-column="10" selection-end-line="796" selection-end-column="10" />
+        <state relative-caret-position="11730">
+          <caret line="782" column="10" selection-start-line="782" selection-start-column="10" selection-end-line="782" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -619,13 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="5" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Kotlin/RunKukesTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -684,10 +685,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Kotlin/RunKukesTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/shiftWord.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="75" lean-forward="true" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Kotlin/Shifter.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        <state relative-caret-position="45">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
         </state>
       </provider>
     </entry>
