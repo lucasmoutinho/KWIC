@@ -4,7 +4,7 @@ import org.junit.Assert
 import java.io.File
 import kotlin.test.expect
 
-class StepDefs: Pt {
+class inputFile_Steps: Pt {
 
     val storage_manager = FileStorageManager()
     lateinit var lines: List<String>
