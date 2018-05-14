@@ -9,6 +9,6 @@ Funcionalidade: Realizar o circulamento de uma frase no padrão KWIC
 
     Exemplos:
     |frase                             |frase_circulada                   |
-    |Empresa Junior de Alto Crescimento|Junior de Alto Crescimento Empresa|
-    |Ser uma empresa de TI referência  |TI referência ser uma empresa de  |
-    |Você já mandou bem hoje           |Mandou bem hoje você já           |
+    |Empresa Junior de Alto Crescimento|de Alto Crescimento Empresa Junior|
+    |Ser uma empresa de TI referência  |empresa de TI referência Ser uma  |
+    |Você já mandou bem hoje           |mandou bem hoje Você já           |

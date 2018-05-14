@@ -15,7 +15,7 @@ class shiftWordSteps:Pt {
         }
 
         Quando("^eu usar a função de circular a frase \"([^\"]*)\"$") { arg1: String ->
-            frase_final = Shifter.shift(frases,1,2).joinToString(" ")
+            frase_final = Shifter.shift(frases,2,2).joinToString(" ")
             // Write code here that turns the phrase above into concrete actions
             //throw PendingException()
         }
