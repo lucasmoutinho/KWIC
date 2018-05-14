@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="932ec0bd-da53-4981-8fa7-34cafe7ec709" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/Kotlin/KWICManager.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber/features/KWICManager.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/APIStorageManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/APIStorageManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Shifter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Shifter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/inputAPI_Steps$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/inputAPI_Steps$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/inputAPI_Steps$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/inputAPI_Steps$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/inputAPI_Steps$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/inputAPI_Steps$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/inputAPI_Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/inputAPI_Steps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/shiftWordSteps$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shiftWordSteps$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/shiftWordSteps$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shiftWordSteps$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/shiftWordSteps$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shiftWordSteps$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/shiftWordSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shiftWordSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Kotlin/KWICManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Kotlin/KWICManager.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,86 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FileStorageManager.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/FileStorageManager.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="5" selection-end-line="18" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="APIStorageManager.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/APIStorageManager.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="32" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inputFile.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/inputFile.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="43" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StorageManager.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/StorageManager.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Shifter.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/Shifter.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KWICManager.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/KWICManager.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KWICManager_Steps.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#169#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="KWICManager.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/Kotlin/KWICManager.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            <state relative-caret-position="252">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -139,6 +51,7 @@
     <findStrings>
       <find>%MODULE</find>
       <find>%mo</find>
+      <find>join</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -447,7 +360,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24341000" />
+    <option name="totallyTimeSpent" value="24653000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="90" y="-5" width="1831" height="1086" extended-state="6" />
@@ -699,31 +612,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/FileStorageManager.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/Shifter.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="5" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="360">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/KWICManager.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/APIStorageManager.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="32" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/inputFile.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="43" selection-end-line="9" />
+        <state relative-caret-position="162">
+          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -734,17 +633,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/Shifter.kt">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/inputFile.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="144">
+          <caret line="8" column="43" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/KWICManager.feature">
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/APIStorageManager.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        <state relative-caret-position="311">
+          <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/FileStorageManager.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="5" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -760,8 +673,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Kotlin/KWICManager.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        <state relative-caret-position="252">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
