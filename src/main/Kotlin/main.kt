@@ -24,7 +24,8 @@ fun main(args: Array<String>) {
     val query = "Rodrigo"
     val url = "http://dblp.org/search/publ/api?q=${query}&format=json"
     val result = URL(url).readText()
-    var stringList: List<String> = findTitles(result)
+    val stringList: List<String> = findTitles(result)
 
-    stringList.forEach { s: String ->  println(s + "\n")}
+    val terminal = TerminalOutputManager()
+    terminal.write(stringList)
 }
