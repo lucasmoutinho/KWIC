@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="932ec0bd-da53-4981-8fa7-34cafe7ec709" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber/features/inputAPI.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Kotlin/StepDefs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Kotlin/StepDefs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/cucumber/features/teste.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FileStorageManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FileStorageManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/KWIC_TP2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StorageManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StorageManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RunKukesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RunKukesTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefs$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefs$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefs$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefs$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefs$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefs$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefs.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,11 +26,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="teste.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/teste.feature">
+      <file leaf-file-name="RunKukesTest.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Kotlin/RunKukesTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="43" />
+            <state relative-caret-position="150">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#102#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -32,17 +41,44 @@
       <file leaf-file-name="FileStorageManager.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Kotlin/FileStorageManager.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
+            <state relative-caret-position="195">
               <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StepDefs.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StepDefs.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/Kotlin/StepDefs.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+            <state relative-caret-position="75">
+              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inputFile.feature" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/inputFile.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inputAPI.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/inputAPI.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -88,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/main/Kotlin/FileStorageManager.kt" />
         <option value="$PROJECT_DIR$/src/test/resources/cucumber/features/teste.feature" />
         <option value="$PROJECT_DIR$/src/test/Kotlin/StepDefs.kt" />
+        <option value="$PROJECT_DIR$/src/test/resources/cucumber/features/inputAPI.feature" />
       </list>
     </option>
   </component>
@@ -108,10 +145,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="91" />
-    <option name="y" value="-8" />
-    <option name="width" value="1829" />
-    <option name="height" value="1088" />
+    <option name="x" value="65" />
+    <option name="y" value="-6" />
+    <option name="width" value="1301" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -119,6 +156,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,9 +215,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,7 +268,7 @@
       </extension>
     </configuration>
     <configuration name="RunKukesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="KWIC_TP2" />
+      <module name="KWIC" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
@@ -324,12 +361,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunKukesTest - 2018.05.13 at 21h 20m 17s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunKukesTest - 2018.05.13 at 21h 27m 53s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunKukesTest - 2018.05.13 at 21h 31m 21s.xml">
       <configuration name="RunKukesTest" configurationId="JUnit" />
     </history-entry>
@@ -354,37 +385,42 @@
     <history-entry file="RunKukesTest - 2018.05.13 at 21h 38m 18s.xml">
       <configuration name="RunKukesTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.13 at 21h 40m 40s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.13 at 21h 43m 37s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7712000" />
+    <option name="totallyTimeSpent" value="8295000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="91" y="-8" width="1829" height="1088" extended-state="6" />
+    <frame x="65" y="-6" width="1301" height="774" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32878152" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32831326" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5008201" side_tool="true" weight="0.32878152" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50038433" side_tool="true" weight="0.32882884" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49917987" visible="true" weight="0.32878152" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49961567" visible="true" weight="0.3298193" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24931657" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980783" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -409,6 +445,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50038433" side_tool="true" weight="0.32882884" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32882884" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980783" />
@@ -421,6 +458,65 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/main.kt" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/MyStepdefs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/teste.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/Kotlin/RunKukesTest.kt" />
+    <entry file="file://$PROJECT_DIR$/src/test/Kotlin/StepDefs.kt" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/main.kt" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/MyStepdefs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/teste.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Kotlin/RunKukesTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Kotlin/StepDefs.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -523,13 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Kotlin/StorageManager.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -539,7 +628,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Kotlin/RunKukesTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="150">
           <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding>
             <element signature="e#0#102#0" expanded="true" />
@@ -547,24 +636,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/teste.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="43" />
+        <state relative-caret-position="120">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/input.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Kotlin/StepDefs.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Kotlin/FileStorageManager.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
+        <state relative-caret-position="195">
           <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Kotlin/StepDefs.kt">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/inputAPI.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber/features/inputFile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
         </state>
       </provider>
     </entry>
