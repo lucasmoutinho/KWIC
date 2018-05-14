@@ -16,10 +16,11 @@ class KWICManager {
             }
         }
 
-        return return_frases
+        return this.alphabetical(return_frases)
     }
 
     fun alphabetical(frases: List<String>): List<String> {
+        frases.sorted()
         return frases.sorted()
     }
 }
