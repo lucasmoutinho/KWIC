@@ -1,22 +1,19 @@
 import java.io.File
 
 class FileStorageManager: StorageManager {
-    override fun init() {
 
+    private lateinit var lines: List<String>
+
+    fun getLines(): List<String> {
+        return this.lines
     }
-
 
     override fun read(file_name: String): List<String> {
-        return File(file_name).readLines()
+        lines = File(file_name).readLines()
+        return lines
     }
 
-    override fun write(file_name: String) {
-        File(file_name).printWriter().use { out ->
-            out.write("Eu amo TP2!\nBonifácil é massa!")
-        }
-    }
-
-    override fun length(): Int {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+    override fun length(file_list: List<String>): Int {
+        return file_list.size
     }
 }

@@ -10,9 +10,10 @@ class StepDefs: Pt {
     lateinit var lines: List<String>
     init {
 
-        Dado("^que eu tenha um arquivo texto denominado \"([^\"]*)\"$") { arg1: String ->
-            storage_manager.write(arg1)
-            //println(arg1)
+        Dado("^que eu tenha um arquivo texto denominado \"([^\"]*)\" com (\\d+) linhas$") { arg1: String, arg2: Int ->
+            File(arg1).printWriter().use { out ->
+                out.write("TP2 é massa\nCade todo mundo?\nSumiu\nUm Gnomo, um Gnomo")
+            }
             //throw PendingException()
         }
 
@@ -22,11 +23,11 @@ class StepDefs: Pt {
             //throw PendingException()
         }
 
-        Entao("^a primera frase lida deve ser \"([^\"]*)\"$") { arg1: String ->
-            // Write code here that turns the phrase above into concrete actions
-            Assert.assertEquals(arg1,lines[0])
-            Assert.assertEquals("Bonifácil é massa!",lines[1])
+        Entao("^a quantidade de linhas deve ser (\\d+)$") { arg1: Int ->
+            Assert.assertEquals(arg1,storage_manager.length(lines))
             //throw PendingException()
         }
+
+
     }
 }
