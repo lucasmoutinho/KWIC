@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="932ec0bd-da53-4981-8fa7-34cafe7ec709" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stop_words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/stop_words.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,8 +28,8 @@
       <file leaf-file-name="KWICManager_Steps.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="41" column="79" selection-start-line="41" selection-start-column="79" selection-end-line="41" selection-end-column="79" />
+            <state relative-caret-position="383">
+              <caret line="43" column="75" selection-start-line="43" selection-start-column="75" selection-end-line="43" selection-end-column="75" />
               <folding>
                 <element signature="e#0#169#0" expanded="true" />
               </folding>
@@ -340,12 +341,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunKukesTest - 2018.05.13 at 22h 16m 28s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunKukesTest - 2018.05.13 at 22h 16m 48s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunKukesTest - 2018.05.14 at 14h 53m 22s.xml">
       <configuration name="RunKukesTest" configurationId="JUnit" />
     </history-entry>
@@ -370,9 +365,15 @@
     <history-entry file="RunKukesTest - 2018.05.14 at 19h 39m 14s.xml">
       <configuration name="RunKukesTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.14 at 19h 50m 00s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.14 at 19h 58m 53s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26386000" />
+    <option name="totallyTimeSpent" value="26925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="90" y="-5" width="1831" height="1086" extended-state="6" />
@@ -682,8 +683,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="41" column="79" selection-start-line="41" selection-start-column="79" selection-end-line="41" selection-end-column="79" />
+        <state relative-caret-position="383">
+          <caret line="43" column="75" selection-start-line="43" selection-start-column="75" selection-end-line="43" selection-end-column="75" />
           <folding>
             <element signature="e#0#169#0" expanded="true" />
           </folding>

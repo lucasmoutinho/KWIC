@@ -23,7 +23,7 @@ class KWICManager_Steps:Pt {
         }
         Dado("^um arquivo de stop_words \"([^\"]*)\"$") { arg1: String ->
             File(arg1).printWriter().use { out ->
-                out.write("de\njá\npor\nser")
+                out.write("de\njá\npor\nser\numa")
             }
 
         }
@@ -40,7 +40,10 @@ class KWICManager_Steps:Pt {
             Assert.assertEquals("Junior de Alto Crescimento Empresa",frases[1])
             Assert.assertEquals("Alto Crescimento Empresa Junior de",frases[2])
             Assert.assertEquals("Crescimento Empresa Junior de Alto",frases[3])
-
+            Assert.assertEquals("Ser uma empresa de TI referência",frases[4])
+            Assert.assertEquals("empresa de TI referência Ser uma",frases[5])
+            Assert.assertEquals("TI referência Ser uma empresa de",frases[6])
+            Assert.assertEquals("referência Ser uma empresa de TI",frases[7])
         })
     }
 }
