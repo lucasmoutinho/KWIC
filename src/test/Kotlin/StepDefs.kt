@@ -25,6 +25,7 @@ class StepDefs: Pt {
 
         Entao("^a quantidade de linhas deve ser (\\d+)$") { arg1: Int ->
             Assert.assertEquals(arg1,storage_manager.length(lines))
+            File("teste.txt").delete()
             //throw PendingException()
         }
 
