@@ -16,13 +16,13 @@ class outputFile_Steps: Pt {
 //            throw PendingException()
         }
 
-        Quando("^eu requisitar a escrita destas linhas em um arquivo \"([^\"]*)\"$") { arg1: String ->
-            output.write(arg1)
+        Quando("^eu requisitar a escrita destas linhas em um arquivo$") {
+            output.write(lines)
 //            throw PendingException()
         }
-
-        Entao("^a quantidade de linhas na \"([^\"]*)\" deve ser (\\d+)$") { arg1: String ->
-            Assert.assertEquals(arg1, File(arg1).readLines().size)
+        Entao("^a quantidade de linhas na \"([^\"]*)\" deve ser (\\d+)$") { arg1: String, arg2: Int ->
+            Assert.assertEquals(true, File(arg1).isFile)
+            Assert.assertEquals(arg2, File(arg1).readLines().size)
 //            throw PendingException()
         }
 
