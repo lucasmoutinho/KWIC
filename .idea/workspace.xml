@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="932ec0bd-da53-4981-8fa7-34cafe7ec709" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Kotlin/KWICManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Kotlin/KWICManager.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stop_words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/stop_words.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/KWICManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/KWICManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps.class" afterDir="false" />
-    </list>
+    <list default="true" id="932ec0bd-da53-4981-8fa7-34cafe7ec709" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +16,7 @@
       <file leaf-file-name="KWICManager_Steps.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
+            <state relative-caret-position="289">
               <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
               <folding>
                 <element signature="e#0#169#0" expanded="true" />
@@ -295,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RunKukesTest">
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -395,9 +384,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="JUnit.RunKukesTest" />
         <item itemvalue="Kotlin.MainKt (1)" />
-        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Cucumber java.Feature: teste" />
       </list>
     </recent_temporary>
@@ -421,14 +410,11 @@
       <workItem from="1526327240856" duration="760000" />
       <workItem from="1526332386447" duration="3840000" />
       <workItem from="1526337948241" duration="1200000" />
-      <workItem from="1526398467493" duration="1011000" />
+      <workItem from="1526398467493" duration="1255000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunKukesTest - 2018.05.14 at 19h 58m 41s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunKukesTest - 2018.05.14 at 19h 59m 57s.xml">
       <configuration name="RunKukesTest" configurationId="JUnit" />
     </history-entry>
@@ -456,13 +442,15 @@
     <history-entry file="RunKukesTest - 2018.05.15 at 12h 49m 41s.xml">
       <configuration name="RunKukesTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.15 at 12h 51m 49s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35839000" />
+    <option name="totallyTimeSpent" value="36083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -474,11 +462,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49884704" visible="true" weight="0.3298193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49884704" visible="true" weight="0.3298193" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980783" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980783" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -811,7 +799,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
+        <state relative-caret-position="289">
           <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
           <folding>
             <element signature="e#0#169#0" expanded="true" />
