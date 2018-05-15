@@ -8,10 +8,10 @@ class KWICManager {
         for(i in 0..frases.size-1){
             frases_line = frases[i].split(" ")
             for(j in 0..frases_line.size-1){
-                if(stop_words.contains(frases_line[j])){
+                if(stop_words.contains(frases_line[j].toLowerCase())){
 
                 }else{
-                    return_frases.add(Shifter.shift(frases_line,j,j).joinToString(" "))
+                    return_frases.add(Shifter.shift(frases_line,j,j).joinToString(" ").capitalize())
                 }
             }
         }
