@@ -19,8 +19,17 @@ class KWICManager {
         return this.alphabetical(return_frases)
     }
 
-    fun alphabetical(frases: List<String>): List<String> {
-        frases.sorted()
-        return frases.sorted()
+    fun alphabetical(frases: MutableList<String>): List<String> {
+        for (i in frases.size downTo 1) {
+            for (j in 1 until i) {
+                if (frases[j - 1][0].toLowerCase() > frases[j][0].toLowerCase()) {
+                    val aux = frases[j]
+                    frases[j] = frases[j - 1]
+                    frases[j - 1] = aux
+                }
+            }
+        }
+        println(frases)
+        return frases
     }
 }

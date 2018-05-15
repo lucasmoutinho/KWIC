@@ -5,9 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Kotlin/KWICManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Kotlin/KWICManager.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/KWICManager$alphabetical$$inlined$sortedBy$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/KWICManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/KWICManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/KWICManager_Steps$4.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,20 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="KWICManager.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="KWICManager.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Kotlin/KWICManager.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="414">
+              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KWICManager_Steps.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="KWICManager_Steps.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+            <state relative-caret-position="293">
+              <caret line="42" column="75" selection-start-line="42" selection-start-column="75" selection-end-line="42" selection-end-column="75" />
               <folding>
                 <element signature="e#0#169#0" expanded="true" />
               </folding>
@@ -102,8 +101,8 @@
         <option value="$PROJECT_DIR$/src/main/Kotlin/main.kt" />
         <option value="$PROJECT_DIR$/src/test/Kotlin/inputAPI_Steps.kt" />
         <option value="$PROJECT_DIR$/src/test/resources/cucumber/features/KWICManager.feature" />
-        <option value="$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt" />
         <option value="$PROJECT_DIR$/src/main/Kotlin/KWICManager.kt" />
+        <option value="$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt" />
       </list>
     </option>
   </component>
@@ -346,27 +345,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunKukesTest - 2018.05.14 at 20h 17m 48s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunKukesTest - 2018.05.14 at 20h 18m 09s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunKukesTest - 2018.05.14 at 20h 18m 34s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunKukesTest - 2018.05.14 at 20h 19m 18s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunKukesTest - 2018.05.14 at 20h 22m 41s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunKukesTest - 2018.05.14 at 20h 28m 21s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunKukesTest - 2018.05.14 at 20h 38m 05s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunKukesTest - 2018.05.14 at 20h 43m 33s.xml">
       <configuration name="RunKukesTest" configurationId="JUnit" />
     </history-entry>
@@ -376,9 +354,30 @@
     <history-entry file="RunKukesTest - 2018.05.14 at 20h 47m 07s.xml">
       <configuration name="RunKukesTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.14 at 21h 09m 15s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.14 at 21h 09m 47s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.14 at 21h 10m 46s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.14 at 23h 06m 33s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.14 at 23h 08m 34s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.14 at 23h 09m 02s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.14 at 23h 09m 40s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29025000" />
+    <option name="totallyTimeSpent" value="31042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="90" y="-5" width="1831" height="1086" extended-state="6" />
@@ -669,6 +668,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/KWICManager.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Kotlin/inputFile_Steps.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="545">
@@ -681,18 +687,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+        <state relative-caret-position="293">
+          <caret line="42" column="75" selection-start-line="42" selection-start-column="75" selection-end-line="42" selection-end-column="75" />
           <folding>
             <element signature="e#0#169#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/KWICManager.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
