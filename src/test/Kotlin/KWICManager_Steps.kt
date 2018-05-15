@@ -22,10 +22,7 @@ class KWICManager_Steps:Pt {
 
         }
         Dado("^um arquivo de stop_words \"([^\"]*)\"$") { arg1: String ->
-            File(arg1).printWriter().use { out ->
-                out.write("de\njá\npor\nser\numa")
-            }
-
+            Assert.assertEquals(true, File(arg1).isFile)
         }
 
         Quando("^eu abrir este arquivo e ler os dados e requisitar o KWIC destes dados$") {
