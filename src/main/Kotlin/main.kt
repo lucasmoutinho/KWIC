@@ -1,5 +1,3 @@
-import java.io.File
-
 //  TRABALHO DE TP2 - UNB
 //  SISTEMA MODULARIZADO DE UM KWIC
 //

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="932ec0bd-da53-4981-8fa7-34cafe7ec709" name="Default" comment="" />
+    <list default="true" id="932ec0bd-da53-4981-8fa7-34cafe7ec709" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste.txt" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +19,7 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -74,7 +74,6 @@
         <option value="$PROJECT_DIR$/src/test/Kotlin/outputFile_Steps.kt" />
         <option value="$PROJECT_DIR$/src/main/Kotlin/FileOutputManager.kt" />
         <option value="$PROJECT_DIR$/src/main/Kotlin/TerminalOutputManager.kt" />
-        <option value="$PROJECT_DIR$/src/main/Kotlin/main.kt" />
         <option value="$PROJECT_DIR$/teste.txt" />
         <option value="$PROJECT_DIR$/src/main/Kotlin/APIStorageManager.kt" />
         <option value="$PROJECT_DIR$/src/main/Kotlin/Menu.kt" />
@@ -82,6 +81,7 @@
         <option value="$PROJECT_DIR$/src/main/Kotlin/KWICManager.kt" />
         <option value="$PROJECT_DIR$/stop_words.txt" />
         <option value="$PROJECT_DIR$/src/test/Kotlin/KWICManager_Steps.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/main.kt" />
       </list>
     </option>
   </component>
@@ -173,7 +173,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
@@ -326,14 +326,11 @@
       <workItem from="1526327240856" duration="760000" />
       <workItem from="1526332386447" duration="3840000" />
       <workItem from="1526337948241" duration="1200000" />
-      <workItem from="1526398467493" duration="1495000" />
+      <workItem from="1526398467493" duration="4642000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunKukesTest - 2018.05.14 at 19h 59m 57s.xml">
-      <configuration name="RunKukesTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunKukesTest - 2018.05.14 at 23h 32m 24s.xml">
       <configuration name="RunKukesTest" configurationId="JUnit" />
     </history-entry>
@@ -361,9 +358,12 @@
     <history-entry file="RunKukesTest - 2018.05.15 at 12h 51m 49s.xml">
       <configuration name="RunKukesTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RunKukesTest - 2018.05.15 at 15h 21m 52s.xml">
+      <configuration name="RunKukesTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36323000" />
+    <option name="totallyTimeSpent" value="39470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
@@ -379,11 +379,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49884704" weight="0.3298193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49884704" visible="true" weight="0.3298193" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980783" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980783" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -696,13 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stop_words.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="207" column="3" selection-start-line="207" selection-start-column="3" selection-end-line="207" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/KWICManager.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -717,12 +710,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
+    <entry file="file://$PROJECT_DIR$/stop_words.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="388">
+          <caret line="207" column="3" selection-start-line="207" selection-start-column="3" selection-end-line="207" selection-end-column="3" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/main.kt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
