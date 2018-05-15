@@ -29,7 +29,7 @@ class KWICManager {
                 }
             }
         }
-        println(frases)
+
         return frases
     }
 }

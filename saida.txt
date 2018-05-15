@@ -1,4 +1,309 @@
-Gnomo
-Um Gnomo
-Um Soneca
-Nicholas
+(TM) Images. Evaluation of Multiple Classifier Systems for Landslide Identification in LANDSAT Thematic Mapper
+- auto-vectorization in the presence of commutative operations. Look-ahead SLP
+- Automatic tiling for iterative stencil computations on GPUs. TOAST
+- an extensible distributed stream processing framework. Watershed-ng
+- A Domain Independent Metric for the Assessment of Creative Artifacts. Regent-Dependent Creativity
+2015. Overview of CLEF QA Entrance Exams Task
+Automatic landslide recognition through Optimum-Path Forest.
+auto-vectorization in the presence of commutative operations. Look-ahead SLP -
+arrhythmia classification using wavelet transform and probabilistic neural network. DSP-based
+and probabilistic neural network. DSP-based arrhythmia classification using wavelet transform
+Automatic tiling for iterative stencil computations on GPUs. TOAST -
+and South American World Cup Qualifiers. Operations Research Transforms the Scheduling of Chilean Soccer Leagues
+American World Cup Qualifiers. Operations Research Transforms the Scheduling of Chilean Soccer Leagues and South
+A study about the future evaluation of Question-Answering systems.
+about the future evaluation of Question-Answering systems. A study
+Analysis of the Vehicular-to-Vehicular Channel inside Tunnels. Small-Scale Fading
+and Execution by Skeleton Frameworks. Extending OpenACC for Efficient Stencil Code Generation
+Automatic Partitioning of Stencil Computations on Heterogeneous Systems.
+an extensible distributed stream processing framework. Watershed-ng -
+Analysis of Small-Scale Fading Distributions in Vehicle-to-Vehicle Communications.
+A Domain Independent Metric for the Assessment of Creative Artifacts. Regent-Dependent Creativity -
+Assessment of Creative Artifacts. Regent-Dependent Creativity - A Domain Independent Metric for the
+Artifacts. Regent-Dependent Creativity - A Domain Independent Metric for the Assessment of Creative
+a virtualized HTTP proxy in KVM and Docker. Performance evaluation of
+and Docker. Performance evaluation of a virtualized HTTP proxy in KVM
+An Algebraic Framework for Parallelizing Recurrence in Functional Programming.
+Algebraic Framework for Parallelizing Recurrence in Functional Programming. An
+A nature-inspired approach to speed up optimum-path forest clustering and its application intrusion detection in computer networks.
+approach to speed up optimum-path forest clustering and its application intrusion detection in computer networks. A nature-inspired
+and its application to intrusion detection in computer networks. A nature-inspired approach speed up optimum-path forest clustering
+application to intrusion detection in computer networks. A nature-inspired approach speed up optimum-path forest clustering and its
+Answering. On Evaluating the Contribution of Validation for Question
+A Collaborative Computational Infrastructure for Supporting Technical Debt Knowledge Sharing and Evolution.
+and Evolution. A Collaborative Computational Infrastructure for Supporting Technical Debt Knowledge Sharing
+aperture radar and hyperspectral imagery to detect impacts of oil spill in Gulf Mexico. Fusion synthetic
+and hyperspectral imagery to detect impacts of oil spill in Gulf Mexico. Fusion synthetic aperture radar
+and device-and-device communications. Power control schemes for energy efficiency of cellular
+A wrapper approach for feature selection based on Bat Algorithm and Optimum-Path Forest.
+approach for feature selection based on Bat Algorithm and Optimum-Path Forest. A wrapper
+Algorithm and Optimum-Path Forest. A wrapper approach for feature selection based on Bat
+and Optimum-Path Forest. A wrapper approach for feature selection based on Bat Algorithm
+by Skeleton Frameworks. Extending OpenACC for Efficient Stencil Code Generation and Execution
+Band Selection for Network-Assisted D2D Communications. Interference Mitigation Using
+Based on Power Vectors for D2D Communications. Network-Assisted Neighbor Discovery
+based on Bat Algorithm and Optimum-Path Forest. A wrapper approach for feature selection
+Bat Algorithm and Optimum-Path Forest. A wrapper approach for feature selection based on
+Band Selection. Nature-Inspired Framework for Hyperspectral
+cover classification through contextual-based optimum-path forest. Improving land
+classification through contextual-based optimum-path forest. Improving land cover
+contextual-based optimum-path forest. Improving land cover classification through
+classification through sequential learning-based optimum-path forest. Land-cover
+Cover Classification Through Optimum-Path Forest. Toward Satellite-Based Land
+Classification Through Optimum-Path Forest. Toward Satellite-Based Land Cover
+commutative operations. Look-ahead SLP - auto-vectorization in the presence of
+classification using wavelet transform and probabilistic neural network. DSP-based arrhythmia
+computations on GPUs. TOAST - Automatic tiling for iterative stencil
+Chilean Soccer Leagues and South American World Cup Qualifiers. Operations Research Transforms the Scheduling of
+Cup Qualifiers. Operations Research Transforms the Scheduling of Chilean Soccer Leagues and South American World
+Channel inside Tunnels. Small-Scale Fading Analysis of the Vehicular-to-Vehicular
+code generation in OpenACC. Enabling efficient stencil
+Code Generation and Execution by Skeleton Frameworks. Extending OpenACC for Efficient Stencil
+Computations on Heterogeneous Systems. Automatic Partitioning of Stencil
+Classifier Systems for Landslide Identification in LANDSAT Thematic Mapper (TM) Images. Evaluation of Multiple
+Communications. Analysis of Small-Scale Fading Distributions in Vehicle-to-Vehicle
+Creativity - A Domain Independent Metric for the Assessment of Creative Artifacts. Regent-Dependent
+Creative Artifacts. Regent-Dependent Creativity - A Domain Independent Metric for the Assessment of
+clustering and its application to intrusion detection in computer networks. A nature-inspired approach speed up optimum-path forest
+computer networks. A nature-inspired approach to speed up optimum-path forest clustering and its application intrusion detection in
+Contribution of Validation for Question Answering. On Evaluating the
+Collaborative Computational Infrastructure for Supporting Technical Debt Knowledge Sharing and Evolution. A
+Computational Infrastructure for Supporting Technical Debt Knowledge Sharing and Evolution. A Collaborative
+CLEF QA Entrance Exams Task 2015. Overview of
+Control with Variable Target SINR for D2D Communications Underlying Cellular Networks. Uplink Power
+Communications Underlying Cellular Networks. Uplink Power Control with Variable Target SINR for D2D
+Cellular Networks. Uplink Power Control with Variable Target SINR for D2D Communications Underlying
+Communications. Interference Mitigation Using Band Selection for Network-Assisted D2D
+Communications. Network-Assisted Neighbor Discovery Based on Power Vectors for D2D
+control schemes for energy efficiency of cellular and device-and-device communications. Power
+cellular and device-and-device communications. Power control schemes for energy efficiency of
+communications. Power control schemes for energy efficiency of cellular and device-and-device
+DSP-based arrhythmia classification using wavelet transform and probabilistic neural network.
+distributed stream processing framework. Watershed-ng - an extensible
+Distributions in Vehicle-to-Vehicle Communications. Analysis of Small-Scale Fading
+Domain Independent Metric for the Assessment of Creative Artifacts. Regent-Dependent Creativity - A
+Docker. Performance evaluation of a virtualized HTTP proxy in KVM and
+detection in computer networks. A nature-inspired approach to speed up optimum-path forest clustering and its application intrusion
+Debt Knowledge Sharing and Evolution. A Collaborative Computational Infrastructure for Supporting Technical
+detect impacts of oil spill in Gulf Mexico. Fusion synthetic aperture radar and hyperspectral imagery to
+D2D Communications Underlying Cellular Networks. Uplink Power Control with Variable Target SINR for
+D2D Communications. Interference Mitigation Using Band Selection for Network-Assisted
+Discovery Based on Power Vectors for D2D Communications. Network-Assisted Neighbor
+D2D Communications. Network-Assisted Neighbor Discovery Based on Power Vectors for
+device-and-device communications. Power control schemes for energy efficiency of cellular and
+evaluation of Question-Answering systems. A study about the future
+Enabling efficient stencil code generation in OpenACC.
+efficient stencil code generation in OpenACC. Enabling
+Extending OpenACC for Efficient Stencil Code Generation and Execution by Skeleton Frameworks.
+Efficient Stencil Code Generation and Execution by Skeleton Frameworks. Extending OpenACC for
+Execution by Skeleton Frameworks. Extending OpenACC for Efficient Stencil Code Generation and
+extensible distributed stream processing framework. Watershed-ng - an
+Evaluation of Multiple Classifier Systems for Landslide Identification in LANDSAT Thematic Mapper (TM) Images.
+evaluation of a virtualized HTTP proxy in KVM and Docker. Performance
+Evaluating the Contribution of Validation for Question Answering. On
+Evolution. A Collaborative Computational Infrastructure for Supporting Technical Debt Knowledge Sharing and
+Entrance Exams Task 2015. Overview of CLEF QA
+Exams Task 2015. Overview of CLEF QA Entrance
+energy efficiency of cellular and device-and-device communications. Power control schemes for
+efficiency of cellular and device-and-device communications. Power control schemes for energy
+forest. Improving land cover classification through contextual-based optimum-path
+forest. Land-cover classification through sequential learning-based optimum-path
+Forest. Toward Satellite-Based Land Cover Classification Through Optimum-Path
+Forest. Automatic landslide recognition through Optimum-Path
+for iterative stencil computations on GPUs. TOAST - Automatic tiling
+future evaluation of Question-Answering systems. A study about the
+Fading Analysis of the Vehicular-to-Vehicular Channel inside Tunnels. Small-Scale
+for Efficient Stencil Code Generation and Execution by Skeleton Frameworks. Extending OpenACC
+Frameworks. Extending OpenACC for Efficient Stencil Code Generation and Execution by Skeleton
+framework. Watershed-ng - an extensible distributed stream processing
+for Landslide Identification in LANDSAT Thematic Mapper (TM) Images. Evaluation of Multiple Classifier Systems
+Fading Distributions in Vehicle-to-Vehicle Communications. Analysis of Small-Scale
+for the Assessment of Creative Artifacts. Regent-Dependent Creativity - A Domain Independent Metric
+Framework for Parallelizing Recurrence in Functional Programming. An Algebraic
+for Parallelizing Recurrence in Functional Programming. An Algebraic Framework
+Functional Programming. An Algebraic Framework for Parallelizing Recurrence in
+forest clustering and its application to intrusion detection in computer networks. A nature-inspired approach speed up optimum-path
+for Question Answering. On Evaluating the Contribution of Validation
+for Supporting Technical Debt Knowledge Sharing and Evolution. A Collaborative Computational Infrastructure
+Fusion of synthetic aperture radar and hyperspectral imagery to detect impacts oil spill in Gulf Mexico.
+for D2D Communications Underlying Cellular Networks. Uplink Power Control with Variable Target SINR
+for Network-Assisted D2D Communications. Interference Mitigation Using Band Selection
+for D2D Communications. Network-Assisted Neighbor Discovery Based on Power Vectors
+for energy efficiency of cellular and device-and-device communications. Power control schemes
+for feature selection based on Bat Algorithm and Optimum-Path Forest. A wrapper approach
+feature selection based on Bat Algorithm and Optimum-Path Forest. A wrapper approach for
+Forest. A wrapper approach for feature selection based on Bat Algorithm and Optimum-Path
+Framework for Hyperspectral Band Selection. Nature-Inspired
+for Hyperspectral Band Selection. Nature-Inspired Framework
+GPUs. TOAST - Automatic tiling for iterative stencil computations on
+generation in OpenACC. Enabling efficient stencil code
+Generation and Execution by Skeleton Frameworks. Extending OpenACC for Efficient Stencil Code
+Gulf of Mexico. Fusion synthetic aperture radar and hyperspectral imagery to detect impacts oil spill in
+Heterogeneous Systems. Automatic Partitioning of Stencil Computations on
+HTTP proxy in KVM and Docker. Performance evaluation of a virtualized
+hyperspectral imagery to detect impacts of oil spill in Gulf Mexico. Fusion synthetic aperture radar and
+Hyperspectral Band Selection. Nature-Inspired Framework for
+Improving land cover classification through contextual-based optimum-path forest.
+in the presence of commutative operations. Look-ahead SLP - auto-vectorization
+iterative stencil computations on GPUs. TOAST - Automatic tiling for
+inside Tunnels. Small-Scale Fading Analysis of the Vehicular-to-Vehicular Channel
+in OpenACC. Enabling efficient stencil code generation
+Identification in LANDSAT Thematic Mapper (TM) Images. Evaluation of Multiple Classifier Systems for Landslide
+in LANDSAT Thematic Mapper (TM) Images. Evaluation of Multiple Classifier Systems for Landslide Identification
+Images. Evaluation of Multiple Classifier Systems for Landslide Identification in LANDSAT Thematic Mapper (TM)
+in Vehicle-to-Vehicle Communications. Analysis of Small-Scale Fading Distributions
+Independent Metric for the Assessment of Creative Artifacts. Regent-Dependent Creativity - A Domain
+in KVM and Docker. Performance evaluation of a virtualized HTTP proxy
+in Functional Programming. An Algebraic Framework for Parallelizing Recurrence
+its application to intrusion detection in computer networks. A nature-inspired approach speed up optimum-path forest clustering and
+intrusion detection in computer networks. A nature-inspired approach to speed up optimum-path forest clustering and its application
+in computer networks. A nature-inspired approach to speed up optimum-path forest clustering and its application intrusion detection
+Infrastructure for Supporting Technical Debt Knowledge Sharing and Evolution. A Collaborative Computational
+imagery to detect impacts of oil spill in Gulf Mexico. Fusion synthetic aperture radar and hyperspectral
+impacts of oil spill in Gulf Mexico. Fusion synthetic aperture radar and hyperspectral imagery to detect
+in Gulf of Mexico. Fusion synthetic aperture radar and hyperspectral imagery to detect impacts oil spill
+Interference Mitigation Using Band Selection for Network-Assisted D2D Communications.
+KVM and Docker. Performance evaluation of a virtualized HTTP proxy in
+Knowledge Sharing and Evolution. A Collaborative Computational Infrastructure for Supporting Technical Debt
+land cover classification through contextual-based optimum-path forest. Improving
+Land-cover classification through sequential learning-based optimum-path forest.
+learning-based optimum-path forest. Land-cover classification through sequential
+Land Cover Classification Through Optimum-Path Forest. Toward Satellite-Based
+landslide recognition through Optimum-Path Forest. Automatic
+Look-ahead SLP - auto-vectorization in the presence of commutative operations.
+Leagues and South American World Cup Qualifiers. Operations Research Transforms the Scheduling of Chilean Soccer
+Landslide Identification in LANDSAT Thematic Mapper (TM) Images. Evaluation of Multiple Classifier Systems for
+LANDSAT Thematic Mapper (TM) Images. Evaluation of Multiple Classifier Systems for Landslide Identification in
+Multiple Classifier Systems for Landslide Identification in LANDSAT Thematic Mapper (TM) Images. Evaluation of
+Mapper (TM) Images. Evaluation of Multiple Classifier Systems for Landslide Identification in LANDSAT Thematic
+Metric for the Assessment of Creative Artifacts. Regent-Dependent Creativity - A Domain Independent
+Mexico. Fusion of synthetic aperture radar and hyperspectral imagery to detect impacts oil spill in Gulf
+Mitigation Using Band Selection for Network-Assisted D2D Communications. Interference
+neural network. DSP-based arrhythmia classification using wavelet transform and probabilistic
+network. DSP-based arrhythmia classification using wavelet transform and probabilistic neural
+nature-inspired approach to speed up optimum-path forest clustering and its application intrusion detection in computer networks. A
+networks. A nature-inspired approach to speed up optimum-path forest clustering and its application intrusion detection in computer
+Networks. Uplink Power Control with Variable Target SINR for D2D Communications Underlying Cellular
+Network-Assisted D2D Communications. Interference Mitigation Using Band Selection for
+Network-Assisted Neighbor Discovery Based on Power Vectors for D2D Communications.
+Neighbor Discovery Based on Power Vectors for D2D Communications. Network-Assisted
+Nature-Inspired Framework for Hyperspectral Band Selection.
+optimum-path forest. Improving land cover classification through contextual-based
+optimum-path forest. Land-cover classification through sequential learning-based
+Optimum-Path Forest. Toward Satellite-Based Land Cover Classification Through
+Optimum-Path Forest. Automatic landslide recognition through
+of commutative operations. Look-ahead SLP - auto-vectorization in the presence
+operations. Look-ahead SLP - auto-vectorization in the presence of commutative
+on GPUs. TOAST - Automatic tiling for iterative stencil computations
+Operations Research Transforms the Scheduling of Chilean Soccer Leagues and South American World Cup Qualifiers.
+of Chilean Soccer Leagues and South American World Cup Qualifiers. Operations Research Transforms the Scheduling
+of Question-Answering systems. A study about the future evaluation
+of the Vehicular-to-Vehicular Channel inside Tunnels. Small-Scale Fading Analysis
+OpenACC. Enabling efficient stencil code generation in
+OpenACC for Efficient Stencil Code Generation and Execution by Skeleton Frameworks. Extending
+of Stencil Computations on Heterogeneous Systems. Automatic Partitioning
+on Heterogeneous Systems. Automatic Partitioning of Stencil Computations
+of Multiple Classifier Systems for Landslide Identification in LANDSAT Thematic Mapper (TM) Images. Evaluation
+of Small-Scale Fading Distributions in Vehicle-to-Vehicle Communications. Analysis
+of Creative Artifacts. Regent-Dependent Creativity - A Domain Independent Metric for the Assessment
+of a virtualized HTTP proxy in KVM and Docker. Performance evaluation
+optimum-path forest clustering and its application to intrusion detection in computer networks. A nature-inspired approach speed up
+On Evaluating the Contribution of Validation for Question Answering.
+of Validation for Question Answering. On Evaluating the Contribution
+Overview of CLEF QA Entrance Exams Task 2015.
+of CLEF QA Entrance Exams Task 2015. Overview
+of synthetic aperture radar and hyperspectral imagery to detect impacts of oil spill in Gulf Mexico. Fusion
+of oil spill in Gulf of Mexico. Fusion synthetic aperture radar and hyperspectral imagery to detect impacts
+oil spill in Gulf of Mexico. Fusion synthetic aperture radar and hyperspectral imagery to detect impacts
+of Mexico. Fusion of synthetic aperture radar and hyperspectral imagery to detect impacts oil spill in Gulf
+on Power Vectors for D2D Communications. Network-Assisted Neighbor Discovery Based
+of cellular and device-and-device communications. Power control schemes for energy efficiency
+on Bat Algorithm and Optimum-Path Forest. A wrapper approach for feature selection based
+Optimum-Path Forest. A wrapper approach for feature selection based on Bat Algorithm and
+presence of commutative operations. Look-ahead SLP - auto-vectorization in the
+probabilistic neural network. DSP-based arrhythmia classification using wavelet transform and
+Partitioning of Stencil Computations on Heterogeneous Systems. Automatic
+processing framework. Watershed-ng - an extensible distributed stream
+Performance evaluation of a virtualized HTTP proxy in KVM and Docker.
+proxy in KVM and Docker. Performance evaluation of a virtualized HTTP
+Parallelizing Recurrence in Functional Programming. An Algebraic Framework for
+Programming. An Algebraic Framework for Parallelizing Recurrence in Functional
+Power Control with Variable Target SINR for D2D Communications Underlying Cellular Networks. Uplink
+Power Vectors for D2D Communications. Network-Assisted Neighbor Discovery Based on
+Power control schemes for energy efficiency of cellular and device-and-device communications.
+Qualifiers. Operations Research Transforms the Scheduling of Chilean Soccer Leagues and South American World Cup
+Question-Answering systems. A study about the future evaluation of
+Question Answering. On Evaluating the Contribution of Validation for
+QA Entrance Exams Task 2015. Overview of CLEF
+recognition through Optimum-Path Forest. Automatic landslide
+Research Transforms the Scheduling of Chilean Soccer Leagues and South American World Cup Qualifiers. Operations
+Regent-Dependent Creativity - A Domain Independent Metric for the Assessment of Creative Artifacts.
+Recurrence in Functional Programming. An Algebraic Framework for Parallelizing
+radar and hyperspectral imagery to detect impacts of oil spill in Gulf Mexico. Fusion synthetic aperture
+sequential learning-based optimum-path forest. Land-cover classification through
+Satellite-Based Land Cover Classification Through Optimum-Path Forest. Toward
+SLP - auto-vectorization in the presence of commutative operations. Look-ahead
+stencil computations on GPUs. TOAST - Automatic tiling for iterative
+Scheduling of Chilean Soccer Leagues and South American World Cup Qualifiers. Operations Research Transforms the
+Soccer Leagues and South American World Cup Qualifiers. Operations Research Transforms the Scheduling of Chilean
+South American World Cup Qualifiers. Operations Research Transforms the Scheduling of Chilean Soccer Leagues and
+study about the future evaluation of Question-Answering systems. A
+systems. A study about the future evaluation of Question-Answering
+Small-Scale Fading Analysis of the Vehicular-to-Vehicular Channel inside Tunnels.
+stencil code generation in OpenACC. Enabling efficient
+Stencil Code Generation and Execution by Skeleton Frameworks. Extending OpenACC for Efficient
+Skeleton Frameworks. Extending OpenACC for Efficient Stencil Code Generation and Execution by
+Stencil Computations on Heterogeneous Systems. Automatic Partitioning of
+Systems. Automatic Partitioning of Stencil Computations on Heterogeneous
+stream processing framework. Watershed-ng - an extensible distributed
+Systems for Landslide Identification in LANDSAT Thematic Mapper (TM) Images. Evaluation of Multiple Classifier
+Small-Scale Fading Distributions in Vehicle-to-Vehicle Communications. Analysis of
+speed up optimum-path forest clustering and its application to intrusion detection in computer networks. A nature-inspired approach
+Supporting Technical Debt Knowledge Sharing and Evolution. A Collaborative Computational Infrastructure for
+Sharing and Evolution. A Collaborative Computational Infrastructure for Supporting Technical Debt Knowledge
+synthetic aperture radar and hyperspectral imagery to detect impacts of oil spill in Gulf Mexico. Fusion
+spill in Gulf of Mexico. Fusion synthetic aperture radar and hyperspectral imagery to detect impacts oil
+SINR for D2D Communications Underlying Cellular Networks. Uplink Power Control with Variable Target
+Selection for Network-Assisted D2D Communications. Interference Mitigation Using Band
+schemes for energy efficiency of cellular and device-and-device communications. Power control
+selection based on Bat Algorithm and Optimum-Path Forest. A wrapper approach for feature
+Selection. Nature-Inspired Framework for Hyperspectral Band
+through contextual-based optimum-path forest. Improving land cover classification
+through sequential learning-based optimum-path forest. Land-cover classification
+Toward Satellite-Based Land Cover Classification Through Optimum-Path Forest.
+Through Optimum-Path Forest. Toward Satellite-Based Land Cover Classification
+through Optimum-Path Forest. Automatic landslide recognition
+the presence of commutative operations. Look-ahead SLP - auto-vectorization in
+transform and probabilistic neural network. DSP-based arrhythmia classification using wavelet
+TOAST - Automatic tiling for iterative stencil computations on GPUs.
+tiling for iterative stencil computations on GPUs. TOAST - Automatic
+Transforms the Scheduling of Chilean Soccer Leagues and South American World Cup Qualifiers. Operations Research
+the Scheduling of Chilean Soccer Leagues and South American World Cup Qualifiers. Operations Research Transforms
+the future evaluation of Question-Answering systems. A study about
+the Vehicular-to-Vehicular Channel inside Tunnels. Small-Scale Fading Analysis of
+Tunnels. Small-Scale Fading Analysis of the Vehicular-to-Vehicular Channel inside
+Thematic Mapper (TM) Images. Evaluation of Multiple Classifier Systems for Landslide Identification in LANDSAT
+the Assessment of Creative Artifacts. Regent-Dependent Creativity - A Domain Independent Metric for
+to speed up optimum-path forest clustering and its application to intrusion detection in computer networks. A nature-inspired approach
+to intrusion detection in computer networks. A nature-inspired approach to speed up optimum-path forest clustering and its application
+the Contribution of Validation for Question Answering. On Evaluating
+Technical Debt Knowledge Sharing and Evolution. A Collaborative Computational Infrastructure for Supporting
+Task 2015. Overview of CLEF QA Entrance Exams
+to detect impacts of oil spill in Gulf Mexico. Fusion synthetic aperture radar and hyperspectral imagery
+Target SINR for D2D Communications Underlying Cellular Networks. Uplink Power Control with Variable
+using wavelet transform and probabilistic neural network. DSP-based arrhythmia classification
+up optimum-path forest clustering and its application to intrusion detection in computer networks. A nature-inspired approach speed
+Uplink Power Control with Variable Target SINR for D2D Communications Underlying Cellular Networks.
+Underlying Cellular Networks. Uplink Power Control with Variable Target SINR for D2D Communications
+Using Band Selection for Network-Assisted D2D Communications. Interference Mitigation
+Vehicular-to-Vehicular Channel inside Tunnels. Small-Scale Fading Analysis of the
+Vehicle-to-Vehicle Communications. Analysis of Small-Scale Fading Distributions in
+virtualized HTTP proxy in KVM and Docker. Performance evaluation of a
+Validation for Question Answering. On Evaluating the Contribution of
+Variable Target SINR for D2D Communications Underlying Cellular Networks. Uplink Power Control with
+Vectors for D2D Communications. Network-Assisted Neighbor Discovery Based on Power
+wavelet transform and probabilistic neural network. DSP-based arrhythmia classification using
+World Cup Qualifiers. Operations Research Transforms the Scheduling of Chilean Soccer Leagues and South American
+Watershed-ng - an extensible distributed stream processing framework.
+with Variable Target SINR for D2D Communications Underlying Cellular Networks. Uplink Power Control
+wrapper approach for feature selection based on Bat Algorithm and Optimum-Path Forest. A

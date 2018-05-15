@@ -4,7 +4,10 @@ object Menu {
 
     private fun outputMenu(lines: List<String>){
         var option: Int
-
+        val kwic_manager = KWICManager()
+        val storage_manager = FileStorageManager()
+        val stop_words: List<String>
+        stop_words = storage_manager.read("stop_words.txt")
         println()
         println("Escolha uma das opções abaixo:")
         println("0 - Para não escrever nada")
@@ -21,12 +24,12 @@ object Menu {
             1 -> {
 
                 val output = FileOutputManager()
-                output.write(lines)
+                output.write(kwic_manager.mkKWIC(lines,stop_words))
             }
             2 -> {
 
                 val output = TerminalOutputManager()
-                output.write(lines)
+                output.write(kwic_manager.mkKWIC(lines,stop_words))
             }
         }
 
