@@ -11,7 +11,7 @@ class APIStorageManager: StorageManager {
         while(i < (json.length - 5)){
             if((json[i] == 't') and (json[i+1] == 'i') and (json[i+2] == 't') and (json[i+3] == 'l') and (json[i+4] == 'e')){
                 i += 8
-                while(json[i] != '"'){
+                while((json[i] != '"') and (json[i] != '.')){
                     stringAux += json[i]
                     i++
                 }

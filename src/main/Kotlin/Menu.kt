@@ -65,7 +65,7 @@ object Menu {
                     this.outputMenu(input.read(file_name))
 
                     println("Pressione enter para continuar...")
-                    readLine()
+                    readLine()!!
                 }
                 2 -> {
 
@@ -76,7 +76,7 @@ object Menu {
                     this.outputMenu(input.read(file_name))
 
                     println("Pressione enter para continuar...")
-                    readLine()
+                    readLine()!!
 
                 }
                 else -> {
