@@ -64,8 +64,7 @@ object Menu {
                     val input = FileStorageManager()
                     this.outputMenu(input.read(file_name))
 
-                    println("Pressione enter para continuar...")
-                    readLine()
+                    println("\n\nCONTINUANDO...\n")
                 }
                 2 -> {
 
@@ -75,8 +74,7 @@ object Menu {
                     val input = APIStorageManager()
                     this.outputMenu(input.read(file_name))
 
-                    println("Pressione enter para continuar...")
-                    readLine()
+                    println("\n\nCONTINUANDO...\n")
 
                 }
                 else -> {
