@@ -176,11 +176,9 @@ ante
 após
 até
 com
-contra
 de
 desde
 em
-entre
 para
 por
 sem
@@ -204,3 +202,7 @@ una
 uno
 del
 y
+da
+já
+ya
+ser

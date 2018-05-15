@@ -22,10 +22,7 @@ class KWICManager_Steps:Pt {
 
         }
         Dado("^um arquivo de stop_words \"([^\"]*)\"$") { arg1: String ->
-            File(arg1).printWriter().use { out ->
-                out.write("de\njá\npor\nser\numa")
-            }
-
+            Assert.assertEquals(true, File(arg1).isFile)
         }
 
         Quando("^eu abrir este arquivo e ler os dados e requisitar o KWIC destes dados$") {
@@ -37,17 +34,16 @@ class KWICManager_Steps:Pt {
 
         Entao("^eu devo ter como saída uma lista alfabética de todas as linhas do arquivo original em KWIC$", {
             Assert.assertEquals("Alto Crescimento Empresa Junior de",frases[0])
-            Assert.assertEquals("bem hoje Você já mandou",frases[1])
+            Assert.assertEquals("Bem hoje Você já mandou",frases[1])
             Assert.assertEquals("Crescimento Empresa Junior de Alto",frases[2])
             Assert.assertEquals("Empresa Junior de Alto Crescimento",frases[3])
-            Assert.assertEquals("empresa de TI referência Ser uma",frases[4])
-            Assert.assertEquals("hoje Você já mandou bem",frases[5])
+            Assert.assertEquals("Empresa de TI referência Ser uma",frases[4])
+            Assert.assertEquals("Hoje Você já mandou bem",frases[5])
             Assert.assertEquals("Junior de Alto Crescimento Empresa",frases[6])
-            Assert.assertEquals("mandou bem hoje Você já",frases[7])
-            Assert.assertEquals("referência Ser uma empresa de TI",frases[8])
-            Assert.assertEquals("Ser uma empresa de TI referência",frases[9])
-            Assert.assertEquals("TI referência Ser uma empresa de",frases[10])
-            Assert.assertEquals("Você já mandou bem hoje",frases[11])
+            Assert.assertEquals("Mandou bem hoje Você já",frases[7])
+            Assert.assertEquals("Referência Ser uma empresa de TI",frases[8])
+            Assert.assertEquals("TI referência Ser uma empresa de",frases[9])
+            Assert.assertEquals("Você já mandou bem hoje",frases[10])
         })
     }
 }
